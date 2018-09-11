@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 5, 2018, 10:11:42 AM
+    Author     : Asmi
+*/
+
+.carousel-indicators.bs-carousel-indicators{
+bottom:10px;
+}
+.banner_slide{
+max-height:550px;
+}
+.row.team-data{
+margin-top:125px !important;
+}
+.mar-10-btm{
+margin-bottom:10px;
+}
+input[type="text"].mcvtc_form_el.form-control{
+color:#444 !important;
+background: #fff !important;
+    border: 1px solid #ccc !important;
+}
+select.mcvtc_form_el.form-control option{
+background:#fff !important;
+}
+h5{
+color:#fff;
+}
+.member-social1{
+min-height:95px !important; /*200px !important;*/
+}
+.agileinfo_banner_bottom_pos2{
+background:#3D6142 !important;
+}
+.resp-tab-item{
+font-size:20px !important;
+}
+h4.sub_service_agileits{
+font-size:15px !important;
+}
+
+.carousel-inner > .item{
+ -webkit-transition: 0.3s ease-in-out left;
+    -moz-transition: 0.3s ease-in-out left;
+    -o-transition: 0.3s ease-in-out left;
+    transition: 0.3s ease-in-out left;
+}
